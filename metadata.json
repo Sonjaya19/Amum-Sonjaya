@@ -1,0 +1,6 @@
+{
+  "name": "Koreaku.AI",
+  "description": "Learn Korean with Koreaku.AI: Daily bite-sized curriculum, direct AI tutor interactions with real-time corrections, flashcards with spaced repetition, matching games, and voice-based pronunciation feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
